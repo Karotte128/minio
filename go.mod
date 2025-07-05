@@ -274,3 +274,5 @@ require (
 	google.golang.org/grpc v1.72.0 // indirect
 	google.golang.org/protobuf v1.36.6 // indirect
 )
+
+replace github.com/minio/console => github.com/Karotte128/minio-object-browser v0.0.0-20250705181638-105d700a5e6b
